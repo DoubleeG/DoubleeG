@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ciao, sono Giovanni 👋
 
-<!--
-**DoubleeG/DoubleeG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnico informatico in transizione verso il Data Analytics.
 
-Here are some ideas to get you started:
+Sto studiando:
+- SQL
+- Python
+- Pandas
+- NumPy
+- Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Qui condivido i miei progetti, notebook ed esercizi mentre costruisco il mio portfolio.
+
+## Contatti
+- LinkedIn: [giovanni-gallo-analyst](https://www.linkedin.com/in/giovanni-gallo-analyst)
+- GitHub: [DoubleeG](https://github.com/DoubleeG)
