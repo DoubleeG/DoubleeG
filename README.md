@@ -13,4 +13,4 @@ Qui condivido i miei progetti, notebook ed esercizi mentre costruisco il mio por
 
 ## Contatti
 - LinkedIn: [giovanni-gallo-analyst](https://www.linkedin.com/in/giovanni-gallo-analyst)
-- GitHub: [DoubleeG](https://github.com/DoubleeG)
+- GitHub: [DoubleeG](https://github.com/Gallo-Giovanni)
