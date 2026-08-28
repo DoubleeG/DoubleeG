@@ -1,13 +1,13 @@
 # Ciao, sono Giovanni 👋
 
-Tecnico informatico in transizione verso il Data Analytics.
+🛠️ Tecnico IT 13 anni | Sviluppo Web · Data Analytics
 
-Sto studiando:
-- SQL
-- Python
-- Pandas
-- NumPy
-- Tableau
+Sto costruendo:
+• SpesaSmart · SalvaSpreco · SQL Explainer
+
+Stack: Python · SQL · Supabase · Netlify · Pandas · Tableau
+
+📚 Laurea Informatica (AI) — Pegaso | Google Data Analytics Cert. 2026
 
 Qui condivido i miei progetti, notebook ed esercizi mentre costruisco il mio portfolio.
 
